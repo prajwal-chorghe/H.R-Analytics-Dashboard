@@ -3,6 +3,7 @@ H.R Analytics Dashboard:
 The goal of this Project is to make H.R Analytics Dashboard In Tableau. It will help to understand large number of employee data in single screen. Visualizing the Employee data according to their Gender, Age Group, Job satisfaction 
 
 Following is the detail of Dashboard of Employee data:
+
 •	Attrition Of Gender with the help of Lollipop chart
 
 •	Pie Chart Explaining Department Wise Attrition
