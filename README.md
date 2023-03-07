@@ -14,4 +14,6 @@ Following is the detail of Dashboard of Employee data:
 
 •	Donut Pie Chart describing Attrition rate by Gender for Different Age Group 
 
+#Output
 
+![H R Analytics Dashboard](https://user-images.githubusercontent.com/127020045/223413214-bb307dd9-c90d-41ee-a3a9-6f2bdb4f55d1.jpeg)
